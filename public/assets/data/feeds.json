@@ -28,9 +28,9 @@
             "type": "link",
             "text": "위치 검색하기",
             "color": "#3B6045",
-            "href": "https://m.map.naver.com/search2/site.naver?query=%EB%B9%8C%EB%9D%BC%EB%93%9C%EC%A7%80%EB%94%94%20%EC%B2%AD%EB%8B%B4&sm=hty&style=v5&code=1234779295#/map",
-            "mobileLink": "https://m.map.naver.com/search2/site.naver?query=%EB%B9%8C%EB%9D%BC%EB%93%9C%EC%A7%80%EB%94%94%20%EC%B2%AD%EB%8B%B4&sm=hty&style=v5&code=1234779295#/map",
-            "pcLink": "https://map.naver.com/v5/entry/place/1234779295?c=14143750.278559763,4511859.040699022,13,0,0,0,dh&placePath=%2Fhome%3Fentry=plt"
+            "href": "https://naver.me/56ICPmDn",
+            "mobileLink": "https://naver.me/56ICPmDn",
+            "pcLink": "https://naver.me/56ICPmDn"
           }
         },
         {
@@ -83,7 +83,7 @@
           "imageSrc": "/assets/img/doit.jpg"
         }
       ],
-      "description": "그냥 해줘\n👉  댓글로 뭘하면 좋을지 이야기해줘",
+      "description": "그냥 해줘\n👉  댓글 잘 달리나",
       "tags": ["둘리", "해줘", "생각보다어려움"]
     }
   ]
